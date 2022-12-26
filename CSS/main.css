@@ -1,0 +1,70 @@
+#firstpage {
+    background-image: url(https://img.freepik.com/photos-gratuite/perspective-exterieure-personne-boite-vide_1258-260.jpg?w=1060&t=st=1672070682~exp=1672071282~hmac=64de4ff32973a1aac3f8f267824ca3d439c6454d86ed022310671a2543f18d79);
+    min-width:100vw;
+    min-height: 100vh;
+    align-items: center;
+    display: flex;
+    scroll-snap-align: center ;
+    
+    
+}
+
+#firstpage h1 {
+     
+        height: 100%; /* Hauteur de la page */
+        width: 100%; /* Largeur de la page */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size:100px;
+        margin: 0%;
+    }       
+
+#onepage {
+    display: flex;
+    flex-direction: column;
+    scroll-snap-type: y mandatory;
+    overflow-y: scroll ;
+    width : 100vw;
+    height: 100vh;
+    
+}
+.boxpage {
+    min-width:100vw;
+    min-height: 100vh;
+    display: flex;
+    scroll-snap-align: center ;
+    
+}
+body {
+    font-family: 'Russo One', sans-serif;
+    overflow-y: hidden;
+    margin: 0;
+  }
+
+
+
+ .boxpage img {
+    height: 36vh;
+    animation: circleinfini 6s ease-in-out infinite;
+    transition: all 1s ease-in-out;
+}
+ 
+  
+/* animations */
+
+@keyframes circleinfini {
+    0% {
+        border-radius: 70% 50% 40% 80% / 70% 40% 80% 50%;
+        background: linear-gradient(25deg, var(--primary) 0%, var(--secondary) 100%);
+    }
+    50% {
+        border-radius: 40% 70% 80% 50% / 60% 70% 40% 70%;
+        background: linear-gradient(25deg, var(--third) 0%, var(--secondary) 100%);
+        transform: translate(0, 10px);
+    }
+    100% {
+        border-radius: 70% 50% 40% 80% / 70% 40% 80% 50%;
+        background: linear-gradient(25deg, var(--primary) 0%, var(--secondary) 100%);
+    }
+}

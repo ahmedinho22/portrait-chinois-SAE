@@ -1,14 +1,60 @@
 [
     {
-    "titre": "test 1",
-    "description": "description test",
-    "image": "chemin image",
-    "background": "chemin background"
+    "titre": "Si j'étais une couleur, je serais le bleu.",
+    "description": "Car c'est une couleur calme et apaisante, qui rappelle la mer et le ciel. Elle est aussi symbole de loyauté et de confiance, et elle est souvent associée à des valeurs telles que la stabilité et la sérénité. C'est une couleur polyvalente et peut être utilisée dans de nombreuses situations différentes.",
+    "image": "https://ressource-peintures.com/wp-content/uploads/2021/03/IT15pot.jpg",
+    "background": "https://media.istockphoto.com/id/1027540352/fr/vectoriel/beau-fond-pastel-teintes-douces-sont-un-ressort-classique-l%C3%A9t%C3%A9-une-palette-de-couleurs.jpg?s=612x612&w=0&k=20&c=890i9O4SPWEVy5VazdLR2eBpPOgqrDWnCY1P934tJyk="
     },
+
     {
-    "titre": "test 1",
-    "description": "description test",
-    "image": "chemin image",
-    "background": "chemin background"
+    "titre": "Si j'étais un footballeur, je serais Cristiano Ronaldo.",
+    "description": "Car il est considéré comme l'un des meilleurs joueurs de football de tous les temps et a remporté de nombreux titres et distinctions au cours de sa carrière. Il est connu pour son travail acharné, sa détermination et sa passion pour le football. Il est également un modèle pour les jeunes joueurs en raison de son engagement envers l'amélioration continue et de sa capacité à surmonter les défis. Il est également un grand joueur de l'équipe nationale de Portugal.",
+    "image": "https://static.onzemondial.com/photo_article/213336/113705/1200-L-serie-a.jpg",
+    "background": "https://media.istockphoto.com/id/1027540352/fr/vectoriel/beau-fond-pastel-teintes-douces-sont-un-ressort-classique-l%C3%A9t%C3%A9-une-palette-de-couleurs.jpg?s=612x612&w=0&k=20&c=890i9O4SPWEVy5VazdLR2eBpPOgqrDWnCY1P934tJyk="
+    },
+    
+    {
+    "titre": "Si j'étais un paysage, je serais Djerba",
+    "description": "Si j'étais un paysage, je serais Djerba car cette île tunisienne fait partie de l’histoire de mes parents et de mes ancêtres, j’ai la chance d’y aller tous les étés, elle offre une combinaison unique de culture, de nature et d’histoire. Les plages de sable blanc, les palmiers et les oasis verdoyants créent un décor paradisiaque pour se détendre et profiter de la vie. Les villages traditionnels, les souks animés et les monuments historiques tels que la synagogue El Ghriba, l'une des plus anciennes synagogues du monde, offrent une occasion de découvrir les richesses culturelles de l'île, malgré une forte présence de la communauté musulmane.",
+    "image": "https://i.pinimg.com/originals/f0/1d/9c/f01d9c08777c299c78e9b64636e528e1.jpg",
+    "background": "https://media.istockphoto.com/id/1027540352/fr/vectoriel/beau-fond-pastel-teintes-douces-sont-un-ressort-classique-l%C3%A9t%C3%A9-une-palette-de-couleurs.jpg?s=612x612&w=0&k=20&c=890i9O4SPWEVy5VazdLR2eBpPOgqrDWnCY1P934tJyk="
+    },
+
+    {
+    "titre": "Si j'étais une marque, je serais Nike",
+    "description": "Elle incarne la motivation, la détermination et l'excellence. Nike est synonyme de performance sportive de haut niveau et d'un esprit de dépassement de soi. La marque a su établir un lien fort avec les athlètes et les sportifs de tous niveaux, en leur offrant des produits de qualité et en les encourageant à atteindre leurs objectifs. En étant Nike, je pourrais inspirer les gens à se dépasser et à atteindre leur plein potentiel, tout en offrant des produits innovants et de qualité supérieure.",
+    "image": "https://www.leparisien.fr/resizer/ggp4G9c6BBxBiDmqFBBEh5Ypgvo=/932x582/cloudfront-eu-central-1.images.arcpublishing.com/lpguideshopping/F66DBAJFKJHJPMKBBSLRXZXWJ4.jpg",
+    "background": "https://media.istockphoto.com/id/1027540352/fr/vectoriel/beau-fond-pastel-teintes-douces-sont-un-ressort-classique-l%C3%A9t%C3%A9-une-palette-de-couleurs.jpg?s=612x612&w=0&k=20&c=890i9O4SPWEVy5VazdLR2eBpPOgqrDWnCY1P934tJyk="
+    },
+
+       
+    {
+    "titre": "Si j'étais une voiture, je serais la Urus",
+    "description": "Car étant un grand fan de voitures, notamment les sportives, la Urus de chez Lamborghini incarne splendeur et charisme, dotée d'un moteur V8 biturbo de 4 litres, cet SUV de 666 chevaux est un monstre dans sa catégorie et fait taire la concurrence avec son 0-100 en 3.6s et une vitesse maximale de 305 km/h",
+    "image": "https://1.bp.blogspot.com/-cUwwmEiWwRI/WigWhLQzXrI/AAAAAAAAWA0/Fu3gHyCUbCIPB_rnCcWklEaMUvgNYm1ZACLcBGAs/s1600/lamborghini-urus-blu-eleos.png",
+    "background": "https://media.istockphoto.com/id/1027540352/fr/vectoriel/beau-fond-pastel-teintes-douces-sont-un-ressort-classique-l%C3%A9t%C3%A9-une-palette-de-couleurs.jpg?s=612x612&w=0&k=20&c=890i9O4SPWEVy5VazdLR2eBpPOgqrDWnCY1P934tJyk="
+    },
+
+       
+       
+    {
+    "titre": "Si j'étais un insecte, je serais un papillon.",
+    "description": "Il symbolise la transformation et la liberté. Les papillons sont capables de se transformer à travers leur cycle de vie, de la chenille à l'adulte, et cela me rappelle l'évolution constante de la vie. Les papillons aussi sont libres de voler dans les airs, me rappelant que la liberté est un cadeau précieux. En étant un papillon, je pourrais profiter de la beauté de la nature et inspirer les autres avec ma métamorphose élégante.",
+    "image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/f/7/a/f7a5716eb8_50143455_3237.jpg",
+    "background": "https://media.istockphoto.com/id/1027540352/fr/vectoriel/beau-fond-pastel-teintes-douces-sont-un-ressort-classique-l%C3%A9t%C3%A9-une-palette-de-couleurs.jpg?s=612x612&w=0&k=20&c=890i9O4SPWEVy5VazdLR2eBpPOgqrDWnCY1P934tJyk="
+    },
+        
+        
+        
+    {
+    "titre": "Si j'étais une pierre précieuse, je serais un saphir.",
+    "description": "Il symbolise la sagesse et la force intérieure. La couleur profonde du saphir reflète ma complexité et ma richesse intérieure, tout en étant élégant et raffiné. En étant un saphir, je serais précieux et recherché pour ma beauté et ma valeur, tout en restant humble et accessible.",
+    "image": "https://www.vuillermoz.fr/uploads/cms/encyclopedie-des-pierres/saphir1.jpeg",
+    "background": "https://media.istockphoto.com/id/1027540352/fr/vectoriel/beau-fond-pastel-teintes-douces-sont-un-ressort-classique-l%C3%A9t%C3%A9-une-palette-de-couleurs.jpg?s=612x612&w=0&k=20&c=890i9O4SPWEVy5VazdLR2eBpPOgqrDWnCY1P934tJyk="
     }
-    ]
+
+   
+
+]       
+
+
